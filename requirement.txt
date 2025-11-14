@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pgvector
+python-dotenv
+PyPDF2
+pdfminer.six
+sentence-transformers
