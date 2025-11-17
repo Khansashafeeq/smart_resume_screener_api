@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+python-multipart
+PyPDF2
+pgvector  # optional, if you want vector column + pg extension compatibility
+sentence-transformers  # optional heavy; remove if you can't download
